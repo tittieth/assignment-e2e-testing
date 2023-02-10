@@ -1,0 +1,29 @@
+{
+    "Search":[
+        { 
+            "Title": "Askungen", 
+            "Type": "movie", 
+            "Poster": "img", 
+            "imdbID": "tt3766394", 
+            "Year": "1998" 
+        },
+        { 
+            "Title": "Balto", 
+            "Type": "movie", 
+            "Poster": "img", 
+            "imdbID": "tt3766399", 
+            "Year": "1995" },
+        { 
+            "Title": "Paw Patrol", 
+            "Type": "series", 
+            "Poster": "img", 
+            "imdbID": "tt3766398", 
+            "Year": "2018" },
+        { 
+            "Title": "Snövit", 
+            "Type": "movie", 
+            "Poster": "img", 
+            "imdbID": "tt3766391", 
+            "Year": "2020" }
+    ]
+  }  
